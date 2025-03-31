@@ -1,1 +1,2 @@
 # LabJira
+Corrigiendo error 
